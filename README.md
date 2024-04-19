@@ -20,3 +20,4 @@ Todos los productos de DOS son software libre y tienen licencia GPL-v3. Incentiv
 ---
 
 > _La tecnología avanza y cambia nuestras vidas. Es el momento del sistema político de abrirse al diálogo con la participación ciudadana._
+
