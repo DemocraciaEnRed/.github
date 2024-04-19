@@ -2,7 +2,9 @@
 
 Somos una [organización](https://democraciaenred.org) radicada en Argentina, integrada por activistas, programadores y científicos sociales que trabaja en proyectos enmarcados en el **paradigma de Estado Abierto**. Nuestro objetivo es promover la **transparencia** y la **participación ciudadana** en las instituciones públicas y en los procesos de toma de decisiones.
 
-![Democratizar la democracia](https://i.ibb.co/096f0z7/der.png)
+<div style="text-align: center;">
+<img src="https://i.ibb.co/096f0z7/der.png" alt="Democratizar la democracia" />
+</div>
 
 ### 🌐 Contribuimos al ecosistema
 
