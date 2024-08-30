@@ -1,4 +1,4 @@
-# Hola👋
+# 👋 Hola
 
 Somos una [organización](https://democraciaenred.org) radicada en Argentina, integrada por activistas, programadores y científicos sociales que trabaja en proyectos enmarcados en el **paradigma de Estado Abierto**. Nuestro objetivo es promover la **transparencia** y la **participación ciudadana** en las instituciones públicas y en los procesos de toma de decisiones.
 
