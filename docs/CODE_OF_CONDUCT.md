@@ -2,13 +2,13 @@
 
 ## Nuestro compromiso
 
-Nosotros, como miembros, colaboradores y administradores nos comprometemos a hacer de la participación en nuestra comunidad sea una experiencia libre de acoso para todo el mundo, independientemente de la edad, dimensión corporal, discapacidad visible o invisible, etnicidad, características sexuales, identidad y expresión de género, nivel de experiencia, educación, nivel socio-económico, nacionalidad, apariencia personal, raza, casta, color, religión, o identidad u orientación sexual.
+Nos, como integrantes, colaboradores y administradores nos comprometemos a hacer de la participación en nuestra comunidad sea una experiencia libre de acoso para todo el mundo, independientemente de la edad, dimensión corporal, discapacidad visible o invisible, etnicidad, características sexuales, identidad y expresión de género, nivel de experiencia, educación, nivel socio-económico, nacionalidad, apariencia personal, raza, casta, color, religión, o identidad u orientación sexual.
 
 Nos comprometemos a actuar e interactuar de maneras que contribuyan a una comunidad abierta, acogedora, diversa, inclusiva y sana.
 
 > ### Aclaración
 >
-> A lo largo de este documento, cuando hacemos referencia a "la comunidad", nos referimos específicamente a la comunidad de [Democracia en Red](https://democraciaenred.org). Este término abarca a todos los participantes, colaboradores, usuarios y miembros involucrados en la comunidad y en las actividades relacionadas con Democracia en Red.
+> A lo largo de este documento, cuando hacemos referencia a "la comunidad", nos referimos específicamente a la comunidad de [Democracia en Red](https://democraciaenred.org). Este término abarca a todos/as los/as participantes, colaboradores y usuarios/as involucrados en la comunidad y en las actividades relacionadas con Democracia en Red.
 
 ## Nuestros estándares
 
