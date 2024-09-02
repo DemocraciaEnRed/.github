@@ -1,4 +1,4 @@
-# Código de Conducta para Colaboradores
+# 📜 Código de Conducta para Colaboradores
 
 ## Nuestro compromiso
 
