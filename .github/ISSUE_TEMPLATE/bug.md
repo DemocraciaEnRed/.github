@@ -3,6 +3,8 @@ name: Reporte de error
 about: ¿Encontraste un bug? ¡Comunicalo por aquí! 🐛
 ---
 
+> ✏️ Completá los campos que consideres necesarios
+
 # Ubicación
 
 # Comportamiento observado
