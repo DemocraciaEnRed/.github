@@ -1,8 +1,6 @@
 # 👷‍♀️ Contribuciones
 
-> _Las contribuciones siempre son bienvenidas._
-
-Si te interesa contribuir a nuestros proyectos, podés comenzar revisando **nuestros repositorios fijados (Pinned)**. Estos son los proyectos en los que estamos trabajando activamente.
+> _Las contribuciones siempre son bienvenidas. Si te interesa contribuir a nuestros proyectos, podés comenzar revisando **nuestros repositorios fijados (Pinned)**. Estos son los proyectos en los que estamos trabajando activamente._
 
 Si deseas mejorar algún proyecto o agregar nuevas funcionalidades, no dudes en explorar el repositorio, leer su README, en abrir un **Issue** o enviar un **Pull Request**. En algunos proyectos también tenemos habilitada la sección de **Projects**, donde puedes consultar la hoja de ruta y el estado del proyecto. Puedes encontrar estas opciones en la esquina superior izquierda, justo debajo del nombre del repositorio.
 
