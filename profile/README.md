@@ -16,7 +16,7 @@ Como sucede con cualquier comunidad de código abierto, hay muchos proyectos y h
 
 Si te interesa contribuir a nuestros proyectos, podés comenzar revisando **nuestros repositorios fijados (Pinned)**. Estos son los proyectos en los que estamos trabajando activamente.
 
-Si recién estás iniciando como colaborador de código abierto y no estás seguro de por dónde empezar, preparamos esta [guía de como colaborar](../docs/CONTRIBUTING.md) para ayudarte
+Si recién estás iniciando como colaborador de código abierto y no estás seguro de por dónde empezar, preparamos esta [guía de como colaborar](../docs/CONTRIBUTING.md) para ayudarte.
 
 > _Si tenés dudas o te gustaría recibir orientación, comunicate con el equipo de desarrollo [it@democraciaenred.org](mailto:it@democraciaenred.org)_.
 
