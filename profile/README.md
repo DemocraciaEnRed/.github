@@ -1,23 +1,33 @@
 # 👋 Hola
 
-Somos una [organización](https://democraciaenred.org) radicada en Argentina, integrada por activistas, programadores y científicos sociales que trabaja en proyectos enmarcados en el **paradigma de Estado Abierto**. Nuestro objetivo es promover la **transparencia** y la **participación ciudadana** en las instituciones públicas y en los procesos de toma de decisiones.
+Somos [Democracia en Red](https://democraciaenred.org), una organización radicada en Argentina e integrada por activistas, programadores y científicos sociales. Nuestro trabajo se centra en proyectos bajo el **paradigma de Estado Abierto**, con el objetivo de promover la **transparencia** y la **participación ciudadana** en las instituciones públicas y en los procesos de toma de decisiones.
 
 ![Democratizar la democracia](https://i.ibb.co/096f0z7/der.png)
 
-### 🌐 Contribuimos al ecosistema
+### 🌐 Contribuimos al ecosistema abierto
 
-Las herramientas que forman parte de lo que denominamos [**DemocraciaOS (DOS)**](https://democraciaos.org) son construidas sobre la base de las necesidades de diferentes organismos públicos. Estas herramientas están pensadas y diseñadas en conjunción con la ciudadanía, los gobiernos y diferentes especialistas en transparencia y participación ciudadana.
- 
-Para ver o probar alguna de nuestras principales herramientas te recomendamos:
-- [**Presupuestos participativos**](https://github.com/DemocraciaEnRed/pp-mgp): Plataforma digital que permite la gestión integral de Presupuestos Participativos, generando instancias de diálogo entre la ciudadanía y los gobiernos.
-- [**Consultas Digitales**](https://github.com/DemocraciaEnRed/consultas-digitales): Plataforma digital de consulta, diálogo y debate que conecta al gobierno con la comunidad.
-- [**Co-construcción de leyes**](https://github.com/DemocraciaEnRed/leyesabiertas): Plataforma digital de elaboración colaborativa de normas entre representantes y ciudadanía.
-- [**Seguimiento de metas**](https://github.com/DemocraciaEnRed/participes-app): Plataforma digital que permite la publicacion de metas y compromisos de gobierno facilitando el seguimiento ciudadano.
+Desarrollamos herramientas que forman parte de lo que llamamos [**DemocraciaOS (DOS)**](https://democraciaos.org). Estas herramientas se diseñan en colaboración con organismos públicos y la ciudadanía, teniendo en cuenta las necesidades concretas de cada comunidad, trabajando de la mano con especialistas en transparencia, participación y tecnologías cívicas.
+
+Nuestros productos permiten que los gobiernos abran espacios de diálogo directo con la ciudadanía y promuevan decisiones más inclusivas.
+
+### 🌈 ¿Cómo colaborar con nosotros?
+
+Como sucede con cualquier comunidad de código abierto, hay muchos proyectos y herramientas en los que estamos trabajando al mismo tiempo. Podés ver eso reflejado en la cantidad de repositorios que tenemos.
+
+Si te interesa contribuir a nuestros proyectos de código abierto, podés comenzar revisando nuestros repositorios fijados. Estos son nuestros proyectos actuales en los que estamos trabajando activamente.
+
+Si recién estás iniciando como colaborador de código abierto y no estás seguro de por dónde empezar, preparamos esta [guía de como colaborar](../docs/CONTRIBUTING.md) para ayudarte
+
+> _Si tenés dudas o te gustaría recibir orientación, comunicate con nuestro coordinador de la comunidad tecnológica: [Pano](https://github.com/mpvaldez)_
 
 ### ⚖️ DeR ❤️ Software Libre
-Todos los productos de DOS son software libre y tienen licencia GPL-v3. Incentivamos a nuestra comunidad a que aporten en lo que crean conveniente.
+
+Todos los productos de DemocraciaOS son software libre, licenciados bajo GPL-v3. Creemos en la importancia del código abierto para la transformación social y fomentamos que la comunidad aporte de manera activa.
+
+### 📜 Código de conducta
+
+Tené en cuenta que tenemos un [Código de conducta](../docs/CODE_OF_CONDUCT.md) y que toda actividad en la organización [@DemocraciaEnRed](https://github.com/DemocraciaEnRed) se rige por él. Leelo antes de contribuir, ya que ser parte de esta comunidad significa que acepta cumplirlo. Gracias.
 
 ---
 
 > _La tecnología avanza y cambia nuestras vidas. Es el momento del sistema político de abrirse al diálogo con la participación ciudadana._
-
