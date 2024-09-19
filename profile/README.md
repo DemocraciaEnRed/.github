@@ -10,7 +10,7 @@ Desarrollamos herramientas que forman parte de lo que llamamos [**DemocraciaOS (
 
 Nuestros productos permiten que los gobiernos abran espacios de diálogo directo con la ciudadanía y promuevan decisiones más inclusivas.
 
-### 🌈 ¿Cómo colaborar con nosotros?
+### 👷‍♀️ ¿Cómo colaborar con nosotros?
 
 Como sucede con cualquier comunidad de código abierto, hay muchos proyectos y herramientas en los que estamos trabajando al mismo tiempo. Podés ver eso reflejado en la cantidad de repositorios que tenemos.
 
@@ -20,7 +20,7 @@ Si recién estás iniciando como colaborador de código abierto y no estás segu
 
 > _Si tenés dudas o te gustaría recibir orientación, comunicate con el equipo de desarrollo [it@democraciaenred.org](mailto:it@democraciaenred.org)_.
 
-### ⚖️ DeR ❤️ Software Libre
+### ⚖️ DER ❤️ Software Libre
 
 Todos los productos de DemocraciaOS son software libre, licenciados bajo GPL-v3. Creemos en la importancia del código abierto para la transformación social y fomentamos que la comunidad aporte de manera activa.
 
