@@ -3,7 +3,7 @@ name: Reportar un error
 about: ¿Encontraste un bug? ¡Comunicalo por aquí! 🐛
 ---
 
-> ✏️ Completá los campos que consideres necesarios
+> ✏️ Completá los campos que consideres necesarios. Borrá lo demás.
 
 # Ubicación
 
