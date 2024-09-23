@@ -2,11 +2,11 @@
 
 > _Las contribuciones siempre son bienvenidas. Si te interesa contribuir a nuestros proyectos, podés comenzar revisando **nuestros repositorios fijados (Pinned)**. Estos son los proyectos en los que estamos trabajando activamente._
 
-Si deseas mejorar algún proyecto o agregar nuevas funcionalidades, no dudes en explorar el repositorio, leer su README, en abrir un **Issue** o enviar un **Pull Request**. En algunos proyectos también tenemos habilitada la sección de **Projects**, donde puedes consultar la hoja de ruta y el estado del proyecto. Puedes encontrar estas opciones en la esquina superior izquierda, justo debajo del nombre del repositorio.
+Si querés mejorar algún proyecto o agregar nuevas funcionalidades, no dudés en explorar el repositorio, leer su README, en abrir un **Issue** o enviar un **Pull Request**. En algunos proyectos también tenemos habilitada la sección de **Projects**, donde podés consultar la hoja de ruta y el estado del proyecto. Encontrá estas opciones en la esquina superior izquierda, justo debajo del nombre del repositorio.
 
 ![Vista de pestañas](image-contributing.jpeg)
 
-- **💡 Issue**: Si queres reportar un error, sugerir una mejora o discutir una idea. Usalo para iniciar una conversación sobre cambios en el proyecto.
+- **💡 Issue**: Si querés reportar un error, sugerir una mejora o discutir una idea. Usalo para iniciar una conversación sobre cambios en el proyecto.
 
 - **🔄 Pull Request**: Si realizaste cambios específicos en el código y queres compartirlo andá por ahi. Permite revisar, discutir y, si es aprobado, integrar esos cambios al proyecto.
 
