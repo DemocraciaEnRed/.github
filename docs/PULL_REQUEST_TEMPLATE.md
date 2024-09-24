@@ -11,6 +11,7 @@
 # Cambios incluidos
 
 - [ ] Corrección de errores (cambio permanente que resuelve un problema)
+- [ ] Cambio en documentación
 - [ ] Actualización una funcionalidad existente.
 - [ ] Nueva funcionalidad (cambio permanente que agrega un feature)
 - [ ] Cambio radical (cambio que no es compatible con versiones anteriores y/o cambia la funcionalidad actual)
