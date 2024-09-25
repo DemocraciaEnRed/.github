@@ -42,7 +42,7 @@ $ docker compose up
 >
 > Este entorno virtual requiere de:
 >
-> - [Node.js v18.0.0](https://nodejs.org/en/blog/release/v18.0.0/). Lamentablemente el software unicamente funciona bien hasta esta versión de Node
+> - [Node.js v18.0.0](https://nodejs.org/en/blog/release/v18.0.0/).
 
 #### Instalación y Ejecución
 
