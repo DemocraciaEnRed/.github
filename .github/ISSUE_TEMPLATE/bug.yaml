@@ -1,8 +1,9 @@
+---
 name: Reportar un error
 about: ¿Encontraste un bug? ¡Comunicalo por aquí! 🐛
 title: ""
-labels: ["bug"]
-
+labels: "bug"
+---
 body:
   - type: markdown
     attributes:
@@ -11,7 +12,7 @@ body:
   - type: textarea
     id: what-happened
     attributes:
-      label: Comportamiento observado.
+      label: Descripción
       description: Also tell us, what did you expect to happen?
       placeholder: Tell us what you see!
       value: "A bug happened!"
