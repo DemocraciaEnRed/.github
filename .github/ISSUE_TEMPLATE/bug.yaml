@@ -1,20 +1,18 @@
----
 name: Reportar un error
-about: ¿Encontraste un bug? ¡Comunicalo por aquí! 🐛
-title: ""
-labels: "bug"
----
+description: ¿Encontraste un bug? ¡Comunicalo por aquí! 🐛
+title: "[BUG]: "
+labels: ["bug"]
+
 body:
   - type: markdown
     attributes:
       value: |
-        Gracias por tomarte el tiempo para reportar esto! Completá lo que consideres necesario
+        Gracias por ayudarnos a mejorar nuestro proyecto. Completá lo que consideres necesario
   - type: textarea
     id: what-happened
     attributes:
-      label: Descripción
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      label: Describí brevemente lo que está sucediendo
+      description: Proporcioná una descripción corta y clara.
+      placeholder: "Algo no funciona como se esperaba cuando hago X..."
     validations:
       required: true
