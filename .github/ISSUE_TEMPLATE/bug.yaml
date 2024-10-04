@@ -7,12 +7,12 @@ body:
   - type: markdown
     attributes:
       value: |
-        Gracias por ayudarnos a mejorar nuestro proyecto. Completá lo que consideres necesario
+        Gracias por ayudarnos a mejorar nuestro proyecto.
   - type: textarea
     id: what-happened
     attributes:
-      label: Describí brevemente lo que está sucediendo
-      description: Proporcioná una descripción corta y clara.
-      placeholder: "Algo no funciona como se esperaba cuando hago X..."
+      label: ¿Qué está sucediendo?
+      description: Proporcioná una descripción corta y clara indicando la ubicación del problema y el comportamiento observado.
+      placeholder: "Ejemplo: En la sección X, la funcionalidad Y no funciona como se espera."
     validations:
       required: true
